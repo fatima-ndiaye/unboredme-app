@@ -47,4 +47,4 @@ The app's intuitive interface and streamlined functionality make it effortless t
 ### Fatimata Ndiaye
 
 - [Profile](https://github.com/fatima-xs "Fatima Ndiaye")
-- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Hi!")
+- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Say Hi!")
