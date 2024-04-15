@@ -27,7 +27,7 @@ The app's intuitive interface and streamlined functionality make it effortless t
 ### Links
 
 - Solution URL: [GitHub](https://github.com/fatima-xs/unboredme-app)
-- Live Site URL: [Netlify](https://unboredme-app-fatima.netlify.app/)
+- Live Site URL: [Netlify](https://unboredme-app.netlify.app/)
 
 ## Built with
 
